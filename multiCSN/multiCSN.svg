@@ -424,49 +424,49 @@
       <rect fill="#e9eaf0" x="39.39" y="4" width="67.72" height="14.11" id="b_regression-rect-001" />
       <text fill="#221815" font-family="ArialMT, Arial" font-size="4px" transform="translate(36.94 4.57)" id="b_regression-text-029"><tspan x="0" y="0" id="b_regression-tspan-031">b</tspan></text>
       <text fill="#221815" font-family="ArialMT, Arial" font-size="3px" transform="translate(39.95 9.08)" id="b_regression-text-030"><tspan x="0" y="0" id="b_regression-tspan-032">Shared sparse-regression engine</tspan></text>
-      <g id="bic-formula" data-latex="$\mathrm{BIC}_t(S)=n\,\log\left[\max\left\{\frac{\mathrm{RSS}_t(S)}{n},\,10^{-12}\right\}\right]+|S|\,\log n$" fill="#040000" transform="translate(43.211,15.054) scale(0.031)">
-        <text id="bic-glyph-001" x="0" y="-0.9171875" font-family="STIXGeneral" font-size="100" font-style="normal" font-weight="normal">B</text>
-        <text id="bic-glyph-002" x="66.6999359" y="-0.9171875" font-family="STIXGeneral" font-size="100" font-style="normal" font-weight="normal">I</text>
-        <text id="bic-glyph-003" x="99.9999084" y="-0.9171875" font-family="STIXGeneral" font-size="100" font-style="normal" font-weight="normal">C</text>
-        <text id="bic-glyph-004" x="168.274844" y="14.0828125" font-family="STIXGeneral" font-size="70" font-style="italic" font-weight="normal">t</text>
-        <text id="bic-glyph-005" x="192.234825" y="-0.9171875" font-family="STIXGeneral" font-size="100" font-style="normal" font-weight="normal">(</text>
-        <text id="bic-glyph-006" x="225.534798" y="-0.9171875" font-family="STIXGeneral" font-size="100" font-style="italic" font-weight="normal">S</text>
-        <text id="bic-glyph-007" x="275.534752" y="-0.9171875" font-family="STIXGeneral" font-size="100" font-style="normal" font-weight="normal">)</text>
-        <text id="bic-glyph-008" x="328.834724" y="-0.9171875" font-family="STIXGeneral" font-size="100" font-style="normal" font-weight="normal">=</text>
-        <text id="bic-glyph-009" x="417.334663" y="-0.9171875" font-family="STIXGeneral" font-size="100" font-style="italic" font-weight="normal">n</text>
-        <text id="bic-glyph-010" x="484.001618" y="-0.9171875" font-family="STIXGeneral" font-size="100" font-style="normal" font-weight="normal">l</text>
-        <text id="bic-glyph-011" x="511.80159" y="-0.9171875" font-family="STIXGeneral" font-size="100" font-style="normal" font-weight="normal">o</text>
-        <text id="bic-glyph-012" x="561.801544" y="-0.9171875" font-family="STIXGeneral" font-size="100" font-style="normal" font-weight="normal">g</text>
-        <text id="bic-glyph-013" x="628.468499" y="9.8421875" font-family="STIXSizeOneSym" font-size="98.3473069" font-style="normal" font-weight="normal">[</text>
-        <text id="bic-glyph-014" x="666.134194" y="-0.9171875" font-family="STIXGeneral" font-size="100" font-style="normal" font-weight="normal">m</text>
-        <text id="bic-glyph-015" x="743.934121" y="-0.9171875" font-family="STIXGeneral" font-size="100" font-style="normal" font-weight="normal">a</text>
-        <text id="bic-glyph-016" x="788.334084" y="-0.9171875" font-family="STIXGeneral" font-size="100" font-style="normal" font-weight="normal">x</text>
-        <text id="bic-glyph-017" x="855.001038" y="9.8421875" font-family="STIXSizeOneSym" font-size="98.3473069" font-style="normal" font-weight="normal">{</text>
-        <text id="bic-glyph-018" x="917.798752" y="-47.684375" font-family="STIXGeneral" font-size="70" font-style="normal" font-weight="normal">R</text>
-        <text id="bic-glyph-019" x="964.488708" y="-47.684375" font-family="STIXGeneral" font-size="70" font-style="normal" font-weight="normal">S</text>
-        <text id="bic-glyph-020" x="1003.40867" y="-47.684375" font-family="STIXGeneral" font-size="70" font-style="normal" font-weight="normal">S</text>
-        <text id="bic-glyph-021" x="1043.43113" y="-37.184375" font-family="STIXGeneral" font-size="49" font-style="italic" font-weight="normal">t</text>
-        <text id="bic-glyph-022" x="1060.20312" y="-47.684375" font-family="STIXGeneral" font-size="70" font-style="normal" font-weight="normal">(</text>
-        <text id="bic-glyph-023" x="1083.5131" y="-47.684375" font-family="STIXGeneral" font-size="70" font-style="italic" font-weight="normal">S</text>
-        <text id="bic-glyph-024" x="1118.51307" y="-47.684375" font-family="STIXGeneral" font-size="70" font-style="normal" font-weight="normal">)</text>
-        <text id="bic-glyph-025" x="1012.79875" y="25.3328125" font-family="STIXGeneral" font-size="70" font-style="italic" font-weight="normal">n</text>
-        <text id="bic-glyph-026" x="1148.07305" y="-0.9171875" font-family="STIXGeneral" font-size="100" font-style="normal" font-weight="normal">,</text>
-        <text id="bic-glyph-027" x="1209.74002" y="-0.9171875" font-family="STIXGeneral" font-size="100" font-style="normal" font-weight="normal">1</text>
-        <text id="bic-glyph-028" x="1259.73997" y="-0.9171875" font-family="STIXGeneral" font-size="100" font-style="normal" font-weight="normal">0</text>
-        <text id="bic-glyph-029" x="1311.31492" y="-42.2171875" font-family="STIXGeneral" font-size="70" font-style="normal" font-weight="normal">−</text>
-        <text id="bic-glyph-030" x="1359.26488" y="-42.2171875" font-family="STIXGeneral" font-size="70" font-style="normal" font-weight="normal">1</text>
-        <text id="bic-glyph-031" x="1394.26485" y="-42.2171875" font-family="STIXGeneral" font-size="70" font-style="normal" font-weight="normal">2</text>
-        <text id="bic-glyph-032" x="1433.76482" y="9.8421875" font-family="STIXSizeOneSym" font-size="98.3473069" font-style="normal" font-weight="normal">}</text>
-        <text id="bic-glyph-033" x="1490.31253" y="9.8421875" font-family="STIXSizeOneSym" font-size="98.3473069" font-style="normal" font-weight="normal">]</text>
-        <text id="bic-glyph-034" x="1547.97823" y="-0.9171875" font-family="STIXGeneral" font-size="100" font-style="normal" font-weight="normal">+</text>
-        <text id="bic-glyph-035" x="1636.47817" y="-0.9171875" font-family="STIXGeneral" font-size="100" font-style="normal" font-weight="normal">|</text>
-        <text id="bic-glyph-036" x="1656.47815" y="-0.9171875" font-family="STIXGeneral" font-size="100" font-style="italic" font-weight="normal">S</text>
-        <text id="bic-glyph-037" x="1706.47811" y="-0.9171875" font-family="STIXGeneral" font-size="100" font-style="normal" font-weight="normal">|</text>
-        <text id="bic-glyph-038" x="1743.14509" y="-0.9171875" font-family="STIXGeneral" font-size="100" font-style="normal" font-weight="normal">l</text>
-        <text id="bic-glyph-039" x="1770.94506" y="-0.9171875" font-family="STIXGeneral" font-size="100" font-style="normal" font-weight="normal">o</text>
-        <text id="bic-glyph-040" x="1820.94502" y="-0.9171875" font-family="STIXGeneral" font-size="100" font-style="normal" font-weight="normal">g</text>
-        <text id="bic-glyph-041" x="1887.61197" y="-0.9171875" font-family="STIXGeneral" font-size="100" font-style="italic" font-weight="normal">n</text>
-        <rect id="bic-fraction-bar-1" x="917.798752" y="-29.0421875" width="224.024294" height="6.25" />
+      <g id="bic-formula" data-latex="$\mathrm{BIC}_t(S)=n\,\log\left[\max\left\{\frac{\mathrm{RSS}_t(S)}{n},\,10^{-12}\right\}\right]+|S|\,\log n$" fill="#040000" transform="translate(44.2185,15.147) scale(0.031)">
+        <text id="bic-glyph-001" x="0" y="-0.953125" font-family="STIXGeneral" font-size="100" font-style="normal" font-weight="normal">B</text>
+        <text id="bic-glyph-002" x="66.6999969" y="-0.953125" font-family="STIXGeneral" font-size="100" font-style="normal" font-weight="normal">I</text>
+        <text id="bic-glyph-003" x="99.9999847" y="-0.953125" font-family="STIXGeneral" font-size="100" font-style="normal" font-weight="normal">C</text>
+        <text id="bic-glyph-004" x="168.243263" y="12.275" font-family="STIXGeneral" font-size="70" font-style="italic" font-weight="normal">t</text>
+        <text id="bic-glyph-005" x="192.112629" y="-0.953125" font-family="STIXGeneral" font-size="100" font-style="normal" font-weight="normal">(</text>
+        <text id="bic-glyph-006" x="225.412617" y="-0.953125" font-family="STIXGeneral" font-size="100" font-style="italic" font-weight="normal">S</text>
+        <text id="bic-glyph-007" x="275.412602" y="-0.953125" font-family="STIXGeneral" font-size="100" font-style="normal" font-weight="normal">)</text>
+        <text id="bic-glyph-008" x="323.152586" y="-0.953125" font-family="STIXGeneral" font-size="100" font-style="normal" font-weight="normal">=</text>
+        <text id="bic-glyph-009" x="406.092567" y="-0.953125" font-family="STIXGeneral" font-size="100" font-style="italic" font-weight="normal">n</text>
+        <text id="bic-glyph-010" x="468.126123" y="-0.953125" font-family="STIXGeneral" font-size="100" font-style="normal" font-weight="normal">l</text>
+        <text id="bic-glyph-011" x="495.926111" y="-0.953125" font-family="STIXGeneral" font-size="100" font-style="normal" font-weight="normal">o</text>
+        <text id="bic-glyph-012" x="545.926095" y="-0.953125" font-family="STIXGeneral" font-size="100" font-style="normal" font-weight="normal">g</text>
+        <text id="bic-glyph-013" x="607.959651" y="7.59375" font-family="STIXSizeOneSym" font-size="100" font-style="normal" font-weight="normal">[</text>
+        <text id="bic-glyph-014" x="646.259639" y="-0.953125" font-family="STIXGeneral" font-size="100" font-style="normal" font-weight="normal">m</text>
+        <text id="bic-glyph-015" x="724.059627" y="-0.953125" font-family="STIXGeneral" font-size="100" font-style="normal" font-weight="normal">a</text>
+        <text id="bic-glyph-016" x="768.459621" y="-0.953125" font-family="STIXGeneral" font-size="100" font-style="normal" font-weight="normal">x</text>
+        <text id="bic-glyph-017" x="818.459605" y="7.59375" font-family="STIXSizeOneSym" font-size="99.5591972" font-style="normal" font-weight="normal">{</text>
+        <text id="bic-glyph-018" x="875.672099" y="-51.1421875" font-family="STIXGeneral" font-size="70" font-style="normal" font-weight="normal">R</text>
+        <text id="bic-glyph-019" x="922.362097" y="-51.1421875" font-family="STIXGeneral" font-size="70" font-style="normal" font-weight="normal">S</text>
+        <text id="bic-glyph-020" x="961.282091" y="-51.1421875" font-family="STIXGeneral" font-size="70" font-style="normal" font-weight="normal">S</text>
+        <text id="bic-glyph-021" x="1001.28238" y="-41.8825" font-family="STIXGeneral" font-size="49" font-style="italic" font-weight="normal">t</text>
+        <text id="bic-glyph-022" x="1017.99094" y="-51.1421875" font-family="STIXGeneral" font-size="70" font-style="normal" font-weight="normal">(</text>
+        <text id="bic-glyph-023" x="1041.30093" y="-51.1421875" font-family="STIXGeneral" font-size="70" font-style="italic" font-weight="normal">S</text>
+        <text id="bic-glyph-024" x="1076.30092" y="-51.1421875" font-family="STIXGeneral" font-size="70" font-style="normal" font-weight="normal">)</text>
+        <text id="bic-glyph-025" x="969.672099" y="23.365625" font-family="STIXGeneral" font-size="70" font-style="italic" font-weight="normal">n</text>
+        <text id="bic-glyph-026" x="1112.11091" y="-0.953125" font-family="STIXGeneral" font-size="100" font-style="normal" font-weight="normal">,</text>
+        <text id="bic-glyph-027" x="1163.58446" y="-0.953125" font-family="STIXGeneral" font-size="100" font-style="normal" font-weight="normal">1</text>
+        <text id="bic-glyph-028" x="1213.58445" y="-0.953125" font-family="STIXGeneral" font-size="100" font-style="normal" font-weight="normal">0</text>
+        <text id="bic-glyph-029" x="1265.12771" y="-36.228125" font-family="STIXGeneral" font-size="70" font-style="normal" font-weight="normal">−</text>
+        <text id="bic-glyph-030" x="1313.0777" y="-36.228125" font-family="STIXGeneral" font-size="70" font-style="normal" font-weight="normal">1</text>
+        <text id="bic-glyph-031" x="1348.07769" y="-36.228125" font-family="STIXGeneral" font-size="70" font-style="normal" font-weight="normal">2</text>
+        <text id="bic-glyph-032" x="1387.48706" y="7.59375" font-family="STIXSizeOneSym" font-size="99.5591972" font-style="normal" font-weight="normal">}</text>
+        <text id="bic-glyph-033" x="1444.69955" y="7.59375" font-family="STIXSizeOneSym" font-size="100" font-style="normal" font-weight="normal">]</text>
+        <text id="bic-glyph-034" x="1497.43953" y="-0.953125" font-family="STIXGeneral" font-size="100" font-style="normal" font-weight="normal">+</text>
+        <text id="bic-glyph-035" x="1580.37951" y="-0.953125" font-family="STIXGeneral" font-size="100" font-style="normal" font-weight="normal">|</text>
+        <text id="bic-glyph-036" x="1600.3795" y="-0.953125" font-family="STIXGeneral" font-size="100" font-style="italic" font-weight="normal">S</text>
+        <text id="bic-glyph-037" x="1650.37948" y="-0.953125" font-family="STIXGeneral" font-size="100" font-style="normal" font-weight="normal">|</text>
+        <text id="bic-glyph-038" x="1682.41304" y="-0.953125" font-family="STIXGeneral" font-size="100" font-style="normal" font-weight="normal">l</text>
+        <text id="bic-glyph-039" x="1710.21303" y="-0.953125" font-family="STIXGeneral" font-size="100" font-style="normal" font-weight="normal">o</text>
+        <text id="bic-glyph-040" x="1760.21301" y="-0.953125" font-family="STIXGeneral" font-size="100" font-style="normal" font-weight="normal">g</text>
+        <text id="bic-glyph-041" x="1822.24657" y="-0.953125" font-family="STIXGeneral" font-size="100" font-style="italic" font-weight="normal">n</text>
+        <rect id="bic-fraction-bar-1" x="875.672099" y="-20" width="223.938811" height="6.25" />
       </g>
     </g>
     <g id="b_state_matrices" inkscape:label="b Independent fits within each cell type or state" inkscape:groupmode="layer">
@@ -596,7 +596,7 @@
       <line fill="none" stroke-miterlimit="10" stroke-width=".5px" stroke="#040000" x1="72.99" y1="50.83" x2="99.85" y2="50.83" id="b_state_matrices-line-003" />
       <text fill="#221815" font-family="ArialMT, Arial" font-size="3px" transform="translate(54.49 26.06)" id="b_state_matrices-text-001"><tspan x="0" y="0" id="b_state_matrices-tspan-001">Within each cell type or state</tspan></text>
     </g>
-    <g id="c_feature_links" inkscape:label="c Regions TSS links motifs and gene" inkscape:groupmode="layer">
+    <g id="c_feature_links" inkscape:label="c Regions Gene domains motifs and gene" inkscape:groupmode="layer">
       <g clip-path="url(#clippath-2)" id="c_feature_links-g-001">
         <rect fill="#e9eaf0" x="40.78" y="59.72" width="64.85" height="31.21" id="c_feature_links-rect-001" />
       </g>
@@ -629,50 +629,50 @@
       <rect fill="#e61673" x="82.64" y="78.99" width="1.5" height="1.86" id="c_feature_links-rect-004" />
       <polygon fill="#60b455" points="84.43 76.31 80.86 76.31 80.86 74.45 84.43 74.45 84.43 76.31" id="c_feature_links-polygon-011" />
       <text fill="#221815" font-family="ArialMT, Arial" font-size="4px" transform="translate(36.94 62.18)" id="c_feature_links-text-004"><tspan x="0" y="0" id="c_feature_links-tspan-004">c</tspan></text>
-      <text fill="#221815" font-size="3px" font-family="Helvetica, Helvetica" transform="translate(45.24 76.62)" id="c_feature_links-text-005"><tspan x="0" y="0" id="c_feature_links-tspan-005">TSS links</tspan></text>
+      <text fill="#221815" font-size="3px" font-family="Helvetica, Helvetica" transform="translate(45.24 76.62)" id="c_feature_links-text-005"><tspan x="0" y="0" id="c_feature_links-tspan-005">Gene domains</tspan></text>
     </g>
     <g id="c_triplet_formula" inkscape:label="c Exact genomic-region join formula" inkscape:groupmode="layer">
-      <g id="triplets-formula" data-latex="$\widehat{S}^{\mathrm{RPG}}_t=\left\{(r,p,g):(r,p)\in\widehat{S}^{\mathrm{RP}}_t,\ (p,g)\in\widehat{S}^{\mathrm{PG}}_t\right\}$" fill="#040000" transform="translate(44.12375,88.01375) scale(0.0325)">
-        <path id="triplets-glyph-001" d="M50,-79.68875 L44.28125,-79.68875 L25,-92.72 L5.71875,-79.68875 L0,-79.68875 L22.859375,-98.704375 L27.140625,-98.704375 L50,-79.68875 Z" />
-        <text id="triplets-glyph-002" x="0" y="-0.485625" font-family="STIXGeneral" font-size="100" font-style="italic" font-weight="normal">S</text>
-        <text id="triplets-glyph-003" x="51.5749542" y="-71.684375" font-family="STIXGeneral" font-size="70" font-style="normal" font-weight="normal">R</text>
-        <text id="triplets-glyph-004" x="98.2649094" y="-71.684375" font-family="STIXGeneral" font-size="70" font-style="normal" font-weight="normal">P</text>
-        <text id="triplets-glyph-005" x="137.254875" y="-71.684375" font-family="STIXGeneral" font-size="70" font-style="normal" font-weight="normal">G</text>
-        <text id="triplets-glyph-006" x="51.5749542" y="30.414375" font-family="STIXGeneral" font-size="70" font-style="italic" font-weight="normal">t</text>
-        <text id="triplets-glyph-007" x="212.29483" y="-0.485625" font-family="STIXGeneral" font-size="100" font-style="normal" font-weight="normal">=</text>
-        <text id="triplets-glyph-008" x="300.794769" y="8.476875" font-family="STIXSizeTwoSym" font-size="81.398374" font-style="normal" font-weight="normal">{</text>
-        <text id="triplets-glyph-009" x="359.15184" y="-0.485625" font-family="STIXGeneral" font-size="100" font-style="normal" font-weight="normal">(</text>
-        <text id="triplets-glyph-010" x="392.451813" y="-0.485625" font-family="STIXGeneral" font-size="100" font-style="italic" font-weight="normal">r</text>
-        <text id="triplets-glyph-011" x="431.351776" y="-0.485625" font-family="STIXGeneral" font-size="100" font-style="normal" font-weight="normal">,</text>
-        <text id="triplets-glyph-012" x="476.351746" y="-0.485625" font-family="STIXGeneral" font-size="100" font-style="italic" font-weight="normal">p</text>
-        <text id="triplets-glyph-013" x="526.751694" y="-0.485625" font-family="STIXGeneral" font-size="100" font-style="normal" font-weight="normal">,</text>
-        <text id="triplets-glyph-014" x="571.751663" y="-0.485625" font-family="STIXGeneral" font-size="100" font-style="italic" font-weight="normal">g</text>
-        <text id="triplets-glyph-015" x="621.751617" y="-0.485625" font-family="STIXGeneral" font-size="100" font-style="normal" font-weight="normal">)</text>
-        <text id="triplets-glyph-016" x="675.05159" y="-0.485625" font-family="STIXGeneral" font-size="100" font-style="normal" font-weight="normal">:</text>
-        <text id="triplets-glyph-017" x="722.851562" y="-0.485625" font-family="STIXGeneral" font-size="100" font-style="normal" font-weight="normal">(</text>
-        <text id="triplets-glyph-018" x="756.151535" y="-0.485625" font-family="STIXGeneral" font-size="100" font-style="italic" font-weight="normal">r</text>
-        <text id="triplets-glyph-019" x="795.051498" y="-0.485625" font-family="STIXGeneral" font-size="100" font-style="normal" font-weight="normal">,</text>
-        <text id="triplets-glyph-020" x="840.051468" y="-0.485625" font-family="STIXGeneral" font-size="100" font-style="italic" font-weight="normal">p</text>
-        <text id="triplets-glyph-021" x="890.451416" y="-0.485625" font-family="STIXGeneral" font-size="100" font-style="normal" font-weight="normal">)</text>
-        <text id="triplets-glyph-022" x="943.751389" y="-0.485625" font-family="STIXGeneral" font-size="100" font-style="normal" font-weight="normal">∈</text>
-        <path id="triplets-glyph-023" d="M1082.25133,-79.68875 L1076.53258,-79.68875 L1057.25133,-92.72 L1037.97008,-79.68875 L1032.25133,-79.68875 L1055.1107,-98.704375 L1059.39195,-98.704375 L1082.25133,-79.68875 Z" />
-        <text id="triplets-glyph-024" x="1032.25133" y="-0.485625" font-family="STIXGeneral" font-size="100" font-style="italic" font-weight="normal">S</text>
-        <text id="triplets-glyph-025" x="1083.82628" y="-71.684375" font-family="STIXGeneral" font-size="70" font-style="normal" font-weight="normal">R</text>
-        <text id="triplets-glyph-026" x="1130.51624" y="-71.684375" font-family="STIXGeneral" font-size="70" font-style="normal" font-weight="normal">P</text>
-        <text id="triplets-glyph-027" x="1083.82628" y="30.414375" font-family="STIXGeneral" font-size="70" font-style="italic" font-weight="normal">t</text>
-        <text id="triplets-glyph-028" x="1174.0062" y="-0.485625" font-family="STIXGeneral" font-size="100" font-style="normal" font-weight="normal">,</text>
-        <text id="triplets-glyph-029" x="1252.33917" y="-0.485625" font-family="STIXGeneral" font-size="100" font-style="normal" font-weight="normal">(</text>
-        <text id="triplets-glyph-030" x="1285.63914" y="-0.485625" font-family="STIXGeneral" font-size="100" font-style="italic" font-weight="normal">p</text>
-        <text id="triplets-glyph-031" x="1336.03909" y="-0.485625" font-family="STIXGeneral" font-size="100" font-style="normal" font-weight="normal">,</text>
-        <text id="triplets-glyph-032" x="1381.03906" y="-0.485625" font-family="STIXGeneral" font-size="100" font-style="italic" font-weight="normal">g</text>
-        <text id="triplets-glyph-033" x="1431.03902" y="-0.485625" font-family="STIXGeneral" font-size="100" font-style="normal" font-weight="normal">)</text>
-        <text id="triplets-glyph-034" x="1484.33899" y="-0.485625" font-family="STIXGeneral" font-size="100" font-style="normal" font-weight="normal">∈</text>
-        <path id="triplets-glyph-035" d="M1622.83893,-79.68875 L1617.12018,-79.68875 L1597.83893,-92.72 L1578.55768,-79.68875 L1572.83893,-79.68875 L1595.6983,-98.704375 L1599.97955,-98.704375 L1622.83893,-79.68875 Z" />
-        <text id="triplets-glyph-036" x="1572.83893" y="-0.485625" font-family="STIXGeneral" font-size="100" font-style="italic" font-weight="normal">S</text>
-        <text id="triplets-glyph-037" x="1624.41388" y="-71.684375" font-family="STIXGeneral" font-size="70" font-style="normal" font-weight="normal">P</text>
-        <text id="triplets-glyph-038" x="1663.40385" y="-71.684375" font-family="STIXGeneral" font-size="70" font-style="normal" font-weight="normal">G</text>
-        <text id="triplets-glyph-039" x="1624.41388" y="30.414375" font-family="STIXGeneral" font-size="70" font-style="italic" font-weight="normal">t</text>
-        <text id="triplets-glyph-040" x="1718.4438" y="8.476875" font-family="STIXSizeTwoSym" font-size="81.398374" font-style="normal" font-weight="normal">}</text>
+      <g id="triplets-formula" data-latex="$\widehat{S}^{\mathrm{RPG}}_t=\left\{(r,p,g):(r,p)\in\widehat{S}^{\mathrm{RP}}_t,\ (p,g)\in\widehat{S}^{\mathrm{PG}}_t\right\}$" fill="#040000" transform="translate(45.44,87.75375) scale(0.0325)">
+        <path id="triplets-glyph-001" d="M56.4843712,-79.64375 L50.7656212,-79.64375 L31.4999962,-92.675 L12.2187462,-79.64375 L6.49999619,-79.64375 L29.3593712,-98.64375 L33.6406212,-98.64375 L56.4843712,-79.64375 Z" />
+        <text id="triplets-glyph-002" x="0" y="-0.753125" font-family="STIXGeneral" font-size="100" font-style="italic" font-weight="normal">S</text>
+        <text id="triplets-glyph-003" x="51.543266" y="-36.028125" font-family="STIXGeneral" font-size="70" font-style="normal" font-weight="normal">R</text>
+        <text id="triplets-glyph-004" x="98.2332639" y="-36.028125" font-family="STIXGeneral" font-size="70" font-style="normal" font-weight="normal">P</text>
+        <text id="triplets-glyph-005" x="137.223262" y="-36.028125" font-family="STIXGeneral" font-size="70" font-style="normal" font-weight="normal">G</text>
+        <text id="triplets-glyph-006" x="51.543266" y="25.703125" font-family="STIXGeneral" font-size="70" font-style="italic" font-weight="normal">t</text>
+        <text id="triplets-glyph-007" x="206.61262" y="-0.753125" font-family="STIXGeneral" font-size="100" font-style="normal" font-weight="normal">=</text>
+        <text id="triplets-glyph-008" x="289.552601" y="9.734375" font-family="STIXSizeOneSym" font-size="101.933435" font-style="normal" font-weight="normal">{</text>
+        <text id="triplets-glyph-009" x="348.130726" y="-0.753125" font-family="STIXGeneral" font-size="100" font-style="normal" font-weight="normal">(</text>
+        <text id="triplets-glyph-010" x="381.430714" y="-0.753125" font-family="STIXGeneral" font-size="100" font-style="italic" font-weight="normal">r</text>
+        <text id="triplets-glyph-011" x="420.330708" y="-0.753125" font-family="STIXGeneral" font-size="100" font-style="normal" font-weight="normal">,</text>
+        <text id="triplets-glyph-012" x="459.770689" y="-0.753125" font-family="STIXGeneral" font-size="100" font-style="italic" font-weight="normal">p</text>
+        <text id="triplets-glyph-013" x="510.170683" y="-0.753125" font-family="STIXGeneral" font-size="100" font-style="normal" font-weight="normal">,</text>
+        <text id="triplets-glyph-014" x="549.610664" y="-0.753125" font-family="STIXGeneral" font-size="100" font-style="italic" font-weight="normal">g</text>
+        <text id="triplets-glyph-015" x="599.610649" y="-0.753125" font-family="STIXGeneral" font-size="100" font-style="normal" font-weight="normal">)</text>
+        <text id="triplets-glyph-016" x="647.350633" y="-0.753125" font-family="STIXGeneral" font-size="100" font-style="normal" font-weight="normal">:</text>
+        <text id="triplets-glyph-017" x="689.590617" y="-0.753125" font-family="STIXGeneral" font-size="100" font-style="normal" font-weight="normal">(</text>
+        <text id="triplets-glyph-018" x="722.890605" y="-0.753125" font-family="STIXGeneral" font-size="100" font-style="italic" font-weight="normal">r</text>
+        <text id="triplets-glyph-019" x="761.790599" y="-0.753125" font-family="STIXGeneral" font-size="100" font-style="normal" font-weight="normal">,</text>
+        <text id="triplets-glyph-020" x="801.23058" y="-0.753125" font-family="STIXGeneral" font-size="100" font-style="italic" font-weight="normal">p</text>
+        <text id="triplets-glyph-021" x="851.630574" y="-0.753125" font-family="STIXGeneral" font-size="100" font-style="normal" font-weight="normal">)</text>
+        <text id="triplets-glyph-022" x="899.370558" y="-0.753125" font-family="STIXGeneral" font-size="100" font-style="normal" font-weight="normal">∈</text>
+        <path id="triplets-glyph-023" d="M1038.79491,-79.64375 L1033.07616,-79.64375 L1013.81054,-92.675 L994.529285,-79.64375 L988.810535,-79.64375 L1011.66991,-98.64375 L1015.95116,-98.64375 L1038.79491,-79.64375 Z" />
+        <text id="triplets-glyph-024" x="982.310539" y="-0.753125" font-family="STIXGeneral" font-size="100" font-style="italic" font-weight="normal">S</text>
+        <text id="triplets-glyph-025" x="1033.8538" y="-36.028125" font-family="STIXGeneral" font-size="70" font-style="normal" font-weight="normal">R</text>
+        <text id="triplets-glyph-026" x="1080.5438" y="-36.028125" font-family="STIXGeneral" font-size="70" font-style="normal" font-weight="normal">P</text>
+        <text id="triplets-glyph-027" x="1033.8538" y="25.703125" font-family="STIXGeneral" font-size="70" font-style="italic" font-weight="normal">t</text>
+        <text id="triplets-glyph-028" x="1123.94318" y="-0.753125" font-family="STIXGeneral" font-size="100" font-style="normal" font-weight="normal">,</text>
+        <text id="triplets-glyph-029" x="1187.44958" y="-0.753125" font-family="STIXGeneral" font-size="100" font-style="normal" font-weight="normal">(</text>
+        <text id="triplets-glyph-030" x="1220.74956" y="-0.753125" font-family="STIXGeneral" font-size="100" font-style="italic" font-weight="normal">p</text>
+        <text id="triplets-glyph-031" x="1271.14956" y="-0.753125" font-family="STIXGeneral" font-size="100" font-style="normal" font-weight="normal">,</text>
+        <text id="triplets-glyph-032" x="1310.58954" y="-0.753125" font-family="STIXGeneral" font-size="100" font-style="italic" font-weight="normal">g</text>
+        <text id="triplets-glyph-033" x="1360.58952" y="-0.753125" font-family="STIXGeneral" font-size="100" font-style="normal" font-weight="normal">)</text>
+        <text id="triplets-glyph-034" x="1408.32951" y="-0.753125" font-family="STIXGeneral" font-size="100" font-style="normal" font-weight="normal">∈</text>
+        <path id="triplets-glyph-035" d="M1547.75386,-79.64375 L1542.03511,-79.64375 L1522.76949,-92.675 L1503.48824,-79.64375 L1497.76949,-79.64375 L1520.62886,-98.64375 L1524.91011,-98.64375 L1547.75386,-79.64375 Z" />
+        <text id="triplets-glyph-036" x="1491.26949" y="-0.753125" font-family="STIXGeneral" font-size="100" font-style="italic" font-weight="normal">S</text>
+        <text id="triplets-glyph-037" x="1542.81276" y="-36.028125" font-family="STIXGeneral" font-size="70" font-style="normal" font-weight="normal">P</text>
+        <text id="triplets-glyph-038" x="1581.80275" y="-36.028125" font-family="STIXGeneral" font-size="70" font-style="normal" font-weight="normal">G</text>
+        <text id="triplets-glyph-039" x="1542.81276" y="25.703125" font-family="STIXGeneral" font-size="70" font-style="italic" font-weight="normal">t</text>
+        <text id="triplets-glyph-040" x="1636.75212" y="9.734375" font-family="STIXSizeOneSym" font-size="101.933435" font-style="normal" font-weight="normal">}</text>
       </g>
     </g>
     <g id="d_tf_gene" inkscape:label="d Direct TF-gene network" inkscape:groupmode="layer">
