@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="multicsn-figure-1" version="1.1" viewBox="0 0 140.96 96.12" width="140.96pt" height="96.12pt" fill="#ffffff">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="multicsn-figure-1" version="1.1" viewBox="0 0 140.96 96.12" fill="#ffffff">
   <title>multiCSN overview: shared sparse regression and multiomics network outputs</title>
   <desc>Paired or aligned multiomics inputs, independent sparse regression, exact genomic-region links and network outputs.</desc>
   <defs>
